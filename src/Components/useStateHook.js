@@ -59,4 +59,5 @@ export default useStateHook;
 // how to use the state variable in dom.
 // update the state variable -> by creating a separate function and by writing in the same line.
 // prevState concept.
-// This prevState is required when you want to use the initial value when you are updating the new state variable value.
+// This prevState is required when you want to use the initial value or the last value of the state when you are updating the new state variable value.
+// alternative of creating state variables in functional.
